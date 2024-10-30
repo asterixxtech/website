@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Asterix Technology
-=======
+
 # Website Asterix Technology
 
 Hai, Kontributor👋
@@ -19,4 +18,3 @@ Adapun urutan deploy yang kami (anggota Asterix Technology) lakukan adalah
 sebagai berikut:
 1. Build website dengan ```npm run build```
 2. Masuk ke directory "dist" dan melakukan deploy dengan ```surge```
->>>>>>> cabf9b9 (docs(readme): add guide for contributors)
