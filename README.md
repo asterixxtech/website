@@ -1,14 +1,14 @@
 # Asterix Technology
 
-# Website Asterix Technology
+## Website Asterix Technology
 
 Hai, Kontributor👋
 Ini adalah website official untuk Asterix Technology, dibuat menggunakan
 template AstroWind (Astro.js).
 
 Siapapun bisa berkontribusi di repositori ini, selama mengikuti peraturan
-yang ada dalam [Code Of Conduct](https://github.com/asterixxtech/asterixtech).
-Kontributor direkomendasikan menggunakan IDE [Google IDX](https://idx.dev) untuk
+yang ada dalam [Code Of Conduct](https://github.com/asterixxtech/document).
+Kontributor direkomendasikan menggunakan IDE [Github Codespaces](https://orange-space-broccoli-r4gq97xv79xwfxv6w.github.dev/) untuk
 pengalaman lebih baik.
 
 Sebagai informasi, website ini di deploy secara manual oleh anggota Asterix
